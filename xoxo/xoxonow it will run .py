@@ -15,4 +15,4 @@ def xoxo(str):  # declare method
 
     return str_count == str_count2  #compare equality of count results
 
-print xoxo("xoxoxoxoxoxoxo")  #call method
+print (xoxo("xoxoxoxoxoxoxo"))  #call method
